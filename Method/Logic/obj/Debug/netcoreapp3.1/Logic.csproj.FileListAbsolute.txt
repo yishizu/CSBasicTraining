@@ -1,0 +1,13 @@
+C:\Users\ykish\source\repos\Method\Logic\bin\Debug\netcoreapp3.1\Logic.exe
+C:\Users\ykish\source\repos\Method\Logic\bin\Debug\netcoreapp3.1\Logic.deps.json
+C:\Users\ykish\source\repos\Method\Logic\bin\Debug\netcoreapp3.1\Logic.runtimeconfig.json
+C:\Users\ykish\source\repos\Method\Logic\bin\Debug\netcoreapp3.1\Logic.runtimeconfig.dev.json
+C:\Users\ykish\source\repos\Method\Logic\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\ykish\source\repos\Method\Logic\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\ykish\source\repos\Method\Logic\obj\Debug\netcoreapp3.1\Logic.csprojAssemblyReference.cache
+C:\Users\ykish\source\repos\Method\Logic\obj\Debug\netcoreapp3.1\Logic.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\Method\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfoInputs.cache
+C:\Users\ykish\source\repos\Method\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfo.cs
+C:\Users\ykish\source\repos\Method\Logic\obj\Debug\netcoreapp3.1\Logic.dll
+C:\Users\ykish\source\repos\Method\Logic\obj\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\ykish\source\repos\Method\Logic\obj\Debug\netcoreapp3.1\Logic.genruntimeconfig.cache

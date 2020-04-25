@@ -1,0 +1,12 @@
+C:\Users\ykish\source\repos\Method\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.exe
+C:\Users\ykish\source\repos\Method\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.deps.json
+C:\Users\ykish\source\repos\Method\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.runtimeconfig.json
+C:\Users\ykish\source\repos\Method\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.runtimeconfig.dev.json
+C:\Users\ykish\source\repos\Method\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.dll
+C:\Users\ykish\source\repos\Method\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.pdb
+C:\Users\ykish\source\repos\Method\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\Method\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.AssemblyInfoInputs.cache
+C:\Users\ykish\source\repos\Method\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.AssemblyInfo.cs
+C:\Users\ykish\source\repos\Method\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.dll
+C:\Users\ykish\source\repos\Method\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.pdb
+C:\Users\ykish\source\repos\Method\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.genruntimeconfig.cache

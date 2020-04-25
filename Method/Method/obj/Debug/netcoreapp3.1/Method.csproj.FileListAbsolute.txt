@@ -1,0 +1,13 @@
+C:\Users\ykish\source\repos\Method\Method\bin\Debug\netcoreapp3.1\Method.exe
+C:\Users\ykish\source\repos\Method\Method\bin\Debug\netcoreapp3.1\Method.deps.json
+C:\Users\ykish\source\repos\Method\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.json
+C:\Users\ykish\source\repos\Method\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.dev.json
+C:\Users\ykish\source\repos\Method\Method\bin\Debug\netcoreapp3.1\Method.dll
+C:\Users\ykish\source\repos\Method\Method\bin\Debug\netcoreapp3.1\Method.pdb
+C:\Users\ykish\source\repos\Method\Method\obj\Debug\netcoreapp3.1\Method.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\Method\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfoInputs.cache
+C:\Users\ykish\source\repos\Method\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfo.cs
+C:\Users\ykish\source\repos\Method\Method\obj\Debug\netcoreapp3.1\Method.dll
+C:\Users\ykish\source\repos\Method\Method\obj\Debug\netcoreapp3.1\Method.pdb
+C:\Users\ykish\source\repos\Method\Method\obj\Debug\netcoreapp3.1\Method.genruntimeconfig.cache
+C:\Users\ykish\source\repos\Method\Method\obj\Debug\netcoreapp3.1\Method.csprojAssemblyReference.cache

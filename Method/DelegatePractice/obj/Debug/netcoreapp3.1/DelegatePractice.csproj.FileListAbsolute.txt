@@ -1,0 +1,12 @@
+C:\Users\ykish\source\repos\Method\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.exe
+C:\Users\ykish\source\repos\Method\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.deps.json
+C:\Users\ykish\source\repos\Method\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.runtimeconfig.json
+C:\Users\ykish\source\repos\Method\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.runtimeconfig.dev.json
+C:\Users\ykish\source\repos\Method\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.dll
+C:\Users\ykish\source\repos\Method\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.pdb
+C:\Users\ykish\source\repos\Method\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\Method\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.AssemblyInfoInputs.cache
+C:\Users\ykish\source\repos\Method\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.AssemblyInfo.cs
+C:\Users\ykish\source\repos\Method\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.dll
+C:\Users\ykish\source\repos\Method\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.pdb
+C:\Users\ykish\source\repos\Method\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.genruntimeconfig.cache

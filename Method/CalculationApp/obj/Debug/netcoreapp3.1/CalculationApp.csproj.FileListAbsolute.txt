@@ -1,0 +1,13 @@
+C:\Users\ykish\source\repos\Method\CalculationApp\bin\Debug\netcoreapp3.1\CalculationApp.exe
+C:\Users\ykish\source\repos\Method\CalculationApp\bin\Debug\netcoreapp3.1\CalculationApp.deps.json
+C:\Users\ykish\source\repos\Method\CalculationApp\bin\Debug\netcoreapp3.1\CalculationApp.runtimeconfig.json
+C:\Users\ykish\source\repos\Method\CalculationApp\bin\Debug\netcoreapp3.1\CalculationApp.runtimeconfig.dev.json
+C:\Users\ykish\source\repos\Method\CalculationApp\bin\Debug\netcoreapp3.1\CalculationApp.dll
+C:\Users\ykish\source\repos\Method\CalculationApp\bin\Debug\netcoreapp3.1\CalculationApp.pdb
+C:\Users\ykish\source\repos\Method\CalculationApp\obj\Debug\netcoreapp3.1\CalculationApp.csprojAssemblyReference.cache
+C:\Users\ykish\source\repos\Method\CalculationApp\obj\Debug\netcoreapp3.1\CalculationApp.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\Method\CalculationApp\obj\Debug\netcoreapp3.1\CalculationApp.AssemblyInfoInputs.cache
+C:\Users\ykish\source\repos\Method\CalculationApp\obj\Debug\netcoreapp3.1\CalculationApp.AssemblyInfo.cs
+C:\Users\ykish\source\repos\Method\CalculationApp\obj\Debug\netcoreapp3.1\CalculationApp.dll
+C:\Users\ykish\source\repos\Method\CalculationApp\obj\Debug\netcoreapp3.1\CalculationApp.pdb
+C:\Users\ykish\source\repos\Method\CalculationApp\obj\Debug\netcoreapp3.1\CalculationApp.genruntimeconfig.cache

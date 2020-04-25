@@ -1,0 +1,13 @@
+C:\Users\ykish\source\repos\Method\Operater\bin\Debug\netcoreapp3.1\Operater.exe
+C:\Users\ykish\source\repos\Method\Operater\bin\Debug\netcoreapp3.1\Operater.deps.json
+C:\Users\ykish\source\repos\Method\Operater\bin\Debug\netcoreapp3.1\Operater.runtimeconfig.json
+C:\Users\ykish\source\repos\Method\Operater\bin\Debug\netcoreapp3.1\Operater.runtimeconfig.dev.json
+C:\Users\ykish\source\repos\Method\Operater\bin\Debug\netcoreapp3.1\Operater.dll
+C:\Users\ykish\source\repos\Method\Operater\bin\Debug\netcoreapp3.1\Operater.pdb
+C:\Users\ykish\source\repos\Method\Operater\obj\Debug\netcoreapp3.1\Operater.csprojAssemblyReference.cache
+C:\Users\ykish\source\repos\Method\Operater\obj\Debug\netcoreapp3.1\Operater.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\Method\Operater\obj\Debug\netcoreapp3.1\Operater.AssemblyInfoInputs.cache
+C:\Users\ykish\source\repos\Method\Operater\obj\Debug\netcoreapp3.1\Operater.AssemblyInfo.cs
+C:\Users\ykish\source\repos\Method\Operater\obj\Debug\netcoreapp3.1\Operater.dll
+C:\Users\ykish\source\repos\Method\Operater\obj\Debug\netcoreapp3.1\Operater.pdb
+C:\Users\ykish\source\repos\Method\Operater\obj\Debug\netcoreapp3.1\Operater.genruntimeconfig.cache

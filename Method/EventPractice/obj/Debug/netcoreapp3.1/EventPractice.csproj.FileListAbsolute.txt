@@ -1,0 +1,13 @@
+C:\Users\ykish\source\repos\Method\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.exe
+C:\Users\ykish\source\repos\Method\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.deps.json
+C:\Users\ykish\source\repos\Method\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.runtimeconfig.json
+C:\Users\ykish\source\repos\Method\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.runtimeconfig.dev.json
+C:\Users\ykish\source\repos\Method\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.dll
+C:\Users\ykish\source\repos\Method\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.pdb
+C:\Users\ykish\source\repos\Method\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.csprojAssemblyReference.cache
+C:\Users\ykish\source\repos\Method\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\Method\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.AssemblyInfoInputs.cache
+C:\Users\ykish\source\repos\Method\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.AssemblyInfo.cs
+C:\Users\ykish\source\repos\Method\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.dll
+C:\Users\ykish\source\repos\Method\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.pdb
+C:\Users\ykish\source\repos\Method\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.genruntimeconfig.cache

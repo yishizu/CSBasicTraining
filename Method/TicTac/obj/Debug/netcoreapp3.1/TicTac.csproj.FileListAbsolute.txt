@@ -1,0 +1,13 @@
+C:\Users\ykish\source\repos\Method\TicTac\bin\Debug\netcoreapp3.1\TicTac.exe
+C:\Users\ykish\source\repos\Method\TicTac\bin\Debug\netcoreapp3.1\TicTac.deps.json
+C:\Users\ykish\source\repos\Method\TicTac\bin\Debug\netcoreapp3.1\TicTac.runtimeconfig.json
+C:\Users\ykish\source\repos\Method\TicTac\bin\Debug\netcoreapp3.1\TicTac.runtimeconfig.dev.json
+C:\Users\ykish\source\repos\Method\TicTac\bin\Debug\netcoreapp3.1\TicTac.dll
+C:\Users\ykish\source\repos\Method\TicTac\bin\Debug\netcoreapp3.1\TicTac.pdb
+C:\Users\ykish\source\repos\Method\TicTac\obj\Debug\netcoreapp3.1\TicTac.csprojAssemblyReference.cache
+C:\Users\ykish\source\repos\Method\TicTac\obj\Debug\netcoreapp3.1\TicTac.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\Method\TicTac\obj\Debug\netcoreapp3.1\TicTac.AssemblyInfoInputs.cache
+C:\Users\ykish\source\repos\Method\TicTac\obj\Debug\netcoreapp3.1\TicTac.AssemblyInfo.cs
+C:\Users\ykish\source\repos\Method\TicTac\obj\Debug\netcoreapp3.1\TicTac.dll
+C:\Users\ykish\source\repos\Method\TicTac\obj\Debug\netcoreapp3.1\TicTac.pdb
+C:\Users\ykish\source\repos\Method\TicTac\obj\Debug\netcoreapp3.1\TicTac.genruntimeconfig.cache
