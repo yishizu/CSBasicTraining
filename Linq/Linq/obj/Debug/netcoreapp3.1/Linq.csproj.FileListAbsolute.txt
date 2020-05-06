@@ -1,0 +1,13 @@
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.exe
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.deps.json
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.json
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.dev.json
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.dll
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.pdb
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.csprojAssemblyReference.cache
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfoInputs.cache
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfo.cs
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.dll
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.pdb
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.genruntimeconfig.cache

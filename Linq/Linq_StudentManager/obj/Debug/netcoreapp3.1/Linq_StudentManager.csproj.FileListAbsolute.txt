@@ -1,0 +1,13 @@
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_StudentManager\bin\Debug\netcoreapp3.1\Linq_StudentManager.exe
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_StudentManager\bin\Debug\netcoreapp3.1\Linq_StudentManager.deps.json
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_StudentManager\bin\Debug\netcoreapp3.1\Linq_StudentManager.runtimeconfig.json
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_StudentManager\bin\Debug\netcoreapp3.1\Linq_StudentManager.runtimeconfig.dev.json
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_StudentManager\bin\Debug\netcoreapp3.1\Linq_StudentManager.dll
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_StudentManager\bin\Debug\netcoreapp3.1\Linq_StudentManager.pdb
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_StudentManager\obj\Debug\netcoreapp3.1\Linq_StudentManager.csprojAssemblyReference.cache
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_StudentManager\obj\Debug\netcoreapp3.1\Linq_StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_StudentManager\obj\Debug\netcoreapp3.1\Linq_StudentManager.AssemblyInfoInputs.cache
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_StudentManager\obj\Debug\netcoreapp3.1\Linq_StudentManager.AssemblyInfo.cs
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_StudentManager\obj\Debug\netcoreapp3.1\Linq_StudentManager.dll
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_StudentManager\obj\Debug\netcoreapp3.1\Linq_StudentManager.pdb
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_StudentManager\obj\Debug\netcoreapp3.1\Linq_StudentManager.genruntimeconfig.cache

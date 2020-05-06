@@ -1,0 +1,13 @@
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_WithXml\bin\Debug\netcoreapp3.1\Linq_WithXml.exe
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_WithXml\bin\Debug\netcoreapp3.1\Linq_WithXml.deps.json
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_WithXml\bin\Debug\netcoreapp3.1\Linq_WithXml.runtimeconfig.json
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_WithXml\bin\Debug\netcoreapp3.1\Linq_WithXml.runtimeconfig.dev.json
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_WithXml\bin\Debug\netcoreapp3.1\Linq_WithXml.dll
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_WithXml\bin\Debug\netcoreapp3.1\Linq_WithXml.pdb
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_WithXml\obj\Debug\netcoreapp3.1\Linq_WithXml.csprojAssemblyReference.cache
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_WithXml\obj\Debug\netcoreapp3.1\Linq_WithXml.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_WithXml\obj\Debug\netcoreapp3.1\Linq_WithXml.AssemblyInfoInputs.cache
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_WithXml\obj\Debug\netcoreapp3.1\Linq_WithXml.AssemblyInfo.cs
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_WithXml\obj\Debug\netcoreapp3.1\Linq_WithXml.dll
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_WithXml\obj\Debug\netcoreapp3.1\Linq_WithXml.pdb
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_WithXml\obj\Debug\netcoreapp3.1\Linq_WithXml.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_ToSQL\bin\Debug\Linq_ToSQL.exe.config
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_ToSQL\bin\Debug\Linq_ToSQL.exe
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_ToSQL\bin\Debug\Linq_ToSQL.pdb
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_ToSQL\obj\Debug\Linq_ToSQL.csprojAssemblyReference.cache
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_ToSQL\obj\Debug\MainWindow.g.cs
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_ToSQL\obj\Debug\App.g.cs
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_ToSQL\obj\Debug\Linq_ToSQL_MarkupCompile.cache
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_ToSQL\obj\Debug\Linq_ToSQL_MarkupCompile.lref
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_ToSQL\obj\Debug\MainWindow.baml
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_ToSQL\obj\Debug\Linq_ToSQL.g.resources
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_ToSQL\obj\Debug\Linq_ToSQL.Properties.Resources.resources
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_ToSQL\obj\Debug\Linq_ToSQL.csproj.GenerateResource.cache
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_ToSQL\obj\Debug\Linq_ToSQL.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_ToSQL\obj\Debug\Linq_ToSQL.exe
+C:\Users\ykish\source\repos\CSBasicTraining\Linq\Linq_ToSQL\obj\Debug\Linq_ToSQL.pdb
