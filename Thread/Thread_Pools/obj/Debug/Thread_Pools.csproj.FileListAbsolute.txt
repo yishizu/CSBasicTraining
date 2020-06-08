@@ -1,0 +1,7 @@
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_Pools\obj\Debug\Thread_Pools.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_Pools\bin\Debug\Thread_Pools.exe.config
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_Pools\bin\Debug\Thread_Pools.exe
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_Pools\bin\Debug\Thread_Pools.pdb
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_Pools\obj\Debug\Thread_Pools.exe
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_Pools\obj\Debug\Thread_Pools.pdb
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_Pools\obj\Debug\Thread_Pools.csprojAssemblyReference.cache

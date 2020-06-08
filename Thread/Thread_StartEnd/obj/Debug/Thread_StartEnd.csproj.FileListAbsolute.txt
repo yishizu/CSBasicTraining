@@ -1,0 +1,7 @@
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_StartEnd\bin\Debug\Thread_StartEnd.exe.config
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_StartEnd\bin\Debug\Thread_StartEnd.exe
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_StartEnd\bin\Debug\Thread_StartEnd.pdb
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_StartEnd\obj\Debug\Thread_StartEnd.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_StartEnd\obj\Debug\Thread_StartEnd.exe
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_StartEnd\obj\Debug\Thread_StartEnd.pdb
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_StartEnd\obj\Debug\Thread_StartEnd.csprojAssemblyReference.cache

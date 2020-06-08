@@ -1,0 +1,15 @@
+﻿<Window x:Class="Thread_Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Thread_Wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button FontSize="32" Click ="MyButton_Click" Name="MyButton" Content="Button" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="167" Height="66"/>
+        <Button FontSize="32" Click ="MyButton_Click2" x:Name="MyButton2" Content="Button" HorizontalAlignment="Left" Margin="224,10,0,0" VerticalAlignment="Top" Width="236" Height="66"/>
+        <WebBrowser Name ="MyWebBrower" HorizontalAlignment="Left" Height="332" Margin="10,81,0,0" VerticalAlignment="Top" Width="776"/>
+
+    </Grid>
+</Window>

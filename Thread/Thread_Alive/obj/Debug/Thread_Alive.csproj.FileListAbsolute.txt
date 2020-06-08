@@ -1,0 +1,7 @@
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_Alive\bin\Debug\Thread_Alive.exe.config
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_Alive\bin\Debug\Thread_Alive.exe
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_Alive\bin\Debug\Thread_Alive.pdb
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_Alive\obj\Debug\Thread_Alive.csprojAssemblyReference.cache
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_Alive\obj\Debug\Thread_Alive.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_Alive\obj\Debug\Thread_Alive.exe
+C:\Users\ykish\source\repos\CSBasicTraining\Thread\Thread_Alive\obj\Debug\Thread_Alive.pdb
